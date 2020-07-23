@@ -1,0 +1,2701 @@
+district,reg_year,reg_month,count
+Agra,2016,1,1235
+Agra,2016,2,1192
+Agra,2016,3,1160
+Agra,2016,4,1160
+Agra,2016,5,1409
+Agra,2016,6,1602
+Agra,2016,7,1452
+Agra,2016,8,1526
+Agra,2016,9,1340
+Agra,2016,10,1434
+Agra,2016,11,1137
+Agra,2016,12,1217
+Agra,2017,1,1186
+Agra,2017,2,937
+Agra,2017,3,1248
+Agra,2017,4,1240
+Agra,2017,5,1363
+Agra,2017,6,1347
+Agra,2017,7,1523
+Agra,2017,8,1771
+Agra,2017,9,1609
+Agra,2017,10,1647
+Agra,2017,11,1420
+Agra,2017,12,1437
+Agra,2018,1,1542
+Agra,2018,2,1911
+Agra,2018,3,1767
+Agra,2018,4,1410
+Agra,2018,5,1925
+Agra,2018,6,1835
+Agra,2018,7,1729
+Agra,2018,8,1707
+Agra,2018,9,1498
+Agra,2018,10,1749
+Agra,2018,11,1434
+Agra,2018,12,1423
+Aligarh,2016,1,801
+Aligarh,2016,2,808
+Aligarh,2016,3,858
+Aligarh,2016,4,813
+Aligarh,2016,5,831
+Aligarh,2016,6,775
+Aligarh,2016,7,850
+Aligarh,2016,8,984
+Aligarh,2016,9,917
+Aligarh,2016,10,910
+Aligarh,2016,11,767
+Aligarh,2016,12,805
+Aligarh,2017,1,740
+Aligarh,2017,2,595
+Aligarh,2017,3,1257
+Aligarh,2017,4,1179
+Aligarh,2017,5,979
+Aligarh,2017,6,974
+Aligarh,2017,7,1217
+Aligarh,2017,8,1324
+Aligarh,2017,9,1423
+Aligarh,2017,10,1487
+Aligarh,2017,11,1051
+Aligarh,2017,12,1053
+Aligarh,2018,1,1196
+Aligarh,2018,2,1265
+Aligarh,2018,3,1259
+Aligarh,2018,4,1120
+Aligarh,2018,5,1532
+Aligarh,2018,6,1423
+Aligarh,2018,7,1326
+Aligarh,2018,8,1265
+Aligarh,2018,9,1122
+Aligarh,2018,10,1275
+Aligarh,2018,11,1027
+Aligarh,2018,12,1281
+Ambedkar Nagar,2016,1,162
+Ambedkar Nagar,2016,2,125
+Ambedkar Nagar,2016,3,186
+Ambedkar Nagar,2016,4,141
+Ambedkar Nagar,2016,5,198
+Ambedkar Nagar,2016,6,201
+Ambedkar Nagar,2016,7,222
+Ambedkar Nagar,2016,8,184
+Ambedkar Nagar,2016,9,148
+Ambedkar Nagar,2016,10,185
+Ambedkar Nagar,2016,11,201
+Ambedkar Nagar,2016,12,199
+Ambedkar Nagar,2017,1,242
+Ambedkar Nagar,2017,2,144
+Ambedkar Nagar,2017,3,252
+Ambedkar Nagar,2017,4,251
+Ambedkar Nagar,2017,5,344
+Ambedkar Nagar,2017,6,272
+Ambedkar Nagar,2017,7,229
+Ambedkar Nagar,2017,8,234
+Ambedkar Nagar,2017,9,228
+Ambedkar Nagar,2017,10,268
+Ambedkar Nagar,2017,11,332
+Ambedkar Nagar,2017,12,208
+Ambedkar Nagar,2018,1,180
+Ambedkar Nagar,2018,2,169
+Ambedkar Nagar,2018,3,249
+Ambedkar Nagar,2018,4,285
+Ambedkar Nagar,2018,5,398
+Ambedkar Nagar,2018,6,391
+Ambedkar Nagar,2018,7,324
+Ambedkar Nagar,2018,8,309
+Ambedkar Nagar,2018,9,497
+Ambedkar Nagar,2018,10,433
+Ambedkar Nagar,2018,11,430
+Ambedkar Nagar,2018,12,352
+Amethi,2016,1,248
+Amethi,2016,2,193
+Amethi,2016,3,256
+Amethi,2016,4,224
+Amethi,2016,5,256
+Amethi,2016,6,289
+Amethi,2016,7,321
+Amethi,2016,8,266
+Amethi,2016,9,248
+Amethi,2016,10,259
+Amethi,2016,11,203
+Amethi,2016,12,267
+Amethi,2017,1,236
+Amethi,2017,2,218
+Amethi,2017,3,275
+Amethi,2017,4,251
+Amethi,2017,5,321
+Amethi,2017,6,296
+Amethi,2017,7,363
+Amethi,2017,8,295
+Amethi,2017,9,332
+Amethi,2017,10,356
+Amethi,2017,11,303
+Amethi,2017,12,260
+Amethi,2018,1,259
+Amethi,2018,2,267
+Amethi,2018,3,335
+Amethi,2018,4,352
+Amethi,2018,5,463
+Amethi,2018,6,528
+Amethi,2018,7,448
+Amethi,2018,8,465
+Amethi,2018,9,390
+Amethi,2018,10,410
+Amethi,2018,11,388
+Amethi,2018,12,398
+Auraiya,2016,1,239
+Auraiya,2016,2,344
+Auraiya,2016,3,323
+Auraiya,2016,4,297
+Auraiya,2016,5,312
+Auraiya,2016,6,282
+Auraiya,2016,7,311
+Auraiya,2016,8,359
+Auraiya,2016,9,268
+Auraiya,2016,10,294
+Auraiya,2016,11,286
+Auraiya,2016,12,255
+Auraiya,2017,1,317
+Auraiya,2017,2,174
+Auraiya,2017,3,364
+Auraiya,2017,4,267
+Auraiya,2017,5,362
+Auraiya,2017,6,390
+Auraiya,2017,7,473
+Auraiya,2017,8,443
+Auraiya,2017,9,569
+Auraiya,2017,10,542
+Auraiya,2017,11,476
+Auraiya,2017,12,693
+Auraiya,2018,1,456
+Auraiya,2018,2,433
+Auraiya,2018,3,432
+Auraiya,2018,4,302
+Auraiya,2018,5,574
+Auraiya,2018,6,496
+Auraiya,2018,7,407
+Auraiya,2018,8,482
+Auraiya,2018,9,354
+Auraiya,2018,10,419
+Auraiya,2018,11,409
+Auraiya,2018,12,454
+Ayodhya,2016,1,351
+Ayodhya,2016,2,302
+Ayodhya,2016,3,420
+Ayodhya,2016,4,321
+Ayodhya,2016,5,475
+Ayodhya,2016,6,466
+Ayodhya,2016,7,490
+Ayodhya,2016,8,490
+Ayodhya,2016,9,518
+Ayodhya,2016,10,446
+Ayodhya,2016,11,326
+Ayodhya,2016,12,374
+Ayodhya,2017,1,535
+Ayodhya,2017,2,283
+Ayodhya,2017,3,432
+Ayodhya,2017,4,400
+Ayodhya,2017,5,535
+Ayodhya,2017,6,530
+Ayodhya,2017,7,599
+Ayodhya,2017,8,647
+Ayodhya,2017,9,547
+Ayodhya,2017,10,714
+Ayodhya,2017,11,726
+Ayodhya,2017,12,569
+Ayodhya,2018,1,472
+Ayodhya,2018,2,542
+Ayodhya,2018,3,589
+Ayodhya,2018,4,654
+Ayodhya,2018,5,941
+Ayodhya,2018,6,700
+Ayodhya,2018,7,605
+Ayodhya,2018,8,651
+Ayodhya,2018,9,606
+Ayodhya,2018,10,622
+Ayodhya,2018,11,588
+Ayodhya,2018,12,502
+Azamgarh,2016,1,382
+Azamgarh,2016,2,440
+Azamgarh,2016,3,470
+Azamgarh,2016,4,391
+Azamgarh,2016,5,497
+Azamgarh,2016,6,447
+Azamgarh,2016,7,481
+Azamgarh,2016,8,490
+Azamgarh,2016,9,394
+Azamgarh,2016,10,460
+Azamgarh,2016,11,372
+Azamgarh,2016,12,512
+Azamgarh,2017,1,456
+Azamgarh,2017,2,372
+Azamgarh,2017,3,460
+Azamgarh,2017,4,661
+Azamgarh,2017,5,602
+Azamgarh,2017,6,654
+Azamgarh,2017,7,638
+Azamgarh,2017,8,523
+Azamgarh,2017,9,596
+Azamgarh,2017,10,627
+Azamgarh,2017,11,516
+Azamgarh,2017,12,521
+Azamgarh,2018,1,460
+Azamgarh,2018,2,455
+Azamgarh,2018,3,477
+Azamgarh,2018,4,433
+Azamgarh,2018,5,674
+Azamgarh,2018,6,623
+Azamgarh,2018,7,585
+Azamgarh,2018,8,571
+Azamgarh,2018,9,513
+Azamgarh,2018,10,577
+Azamgarh,2018,11,479
+Azamgarh,2018,12,509
+Badaun,2016,1,395
+Badaun,2016,2,394
+Badaun,2016,3,509
+Badaun,2016,4,428
+Badaun,2016,5,509
+Badaun,2016,6,642
+Badaun,2016,7,514
+Badaun,2016,8,671
+Badaun,2016,9,497
+Badaun,2016,10,494
+Badaun,2016,11,372
+Badaun,2016,12,390
+Badaun,2017,1,532
+Badaun,2017,2,341
+Badaun,2017,3,441
+Badaun,2017,4,538
+Badaun,2017,5,677
+Badaun,2017,6,694
+Badaun,2017,7,850
+Badaun,2017,8,718
+Badaun,2017,9,752
+Badaun,2017,10,664
+Badaun,2017,11,665
+Badaun,2017,12,658
+Badaun,2018,1,681
+Badaun,2018,2,742
+Badaun,2018,3,790
+Badaun,2018,4,692
+Badaun,2018,5,873
+Badaun,2018,6,682
+Badaun,2018,7,705
+Badaun,2018,8,578
+Badaun,2018,9,632
+Badaun,2018,10,588
+Badaun,2018,11,611
+Badaun,2018,12,567
+Baghpat,2016,1,329
+Baghpat,2016,2,280
+Baghpat,2016,3,340
+Baghpat,2016,4,301
+Baghpat,2016,5,370
+Baghpat,2016,6,367
+Baghpat,2016,7,357
+Baghpat,2016,8,329
+Baghpat,2016,9,327
+Baghpat,2016,10,343
+Baghpat,2016,11,300
+Baghpat,2016,12,337
+Baghpat,2017,1,423
+Baghpat,2017,2,267
+Baghpat,2017,3,330
+Baghpat,2017,4,309
+Baghpat,2017,5,317
+Baghpat,2017,6,316
+Baghpat,2017,7,414
+Baghpat,2017,8,478
+Baghpat,2017,9,436
+Baghpat,2017,10,470
+Baghpat,2017,11,404
+Baghpat,2017,12,341
+Baghpat,2018,1,424
+Baghpat,2018,2,742
+Baghpat,2018,3,546
+Baghpat,2018,4,367
+Baghpat,2018,5,468
+Baghpat,2018,6,542
+Baghpat,2018,7,456
+Baghpat,2018,8,472
+Baghpat,2018,9,481
+Baghpat,2018,10,420
+Baghpat,2018,11,477
+Baghpat,2018,12,486
+Bahraich,2016,1,320
+Bahraich,2016,2,315
+Bahraich,2016,3,366
+Bahraich,2016,4,378
+Bahraich,2016,5,536
+Bahraich,2016,6,503
+Bahraich,2016,7,536
+Bahraich,2016,8,697
+Bahraich,2016,9,499
+Bahraich,2016,10,478
+Bahraich,2016,11,419
+Bahraich,2016,12,528
+Bahraich,2017,1,681
+Bahraich,2017,2,230
+Bahraich,2017,3,372
+Bahraich,2017,4,480
+Bahraich,2017,5,628
+Bahraich,2017,6,600
+Bahraich,2017,7,639
+Bahraich,2017,8,637
+Bahraich,2017,9,637
+Bahraich,2017,10,738
+Bahraich,2017,11,619
+Bahraich,2017,12,507
+Bahraich,2018,1,472
+Bahraich,2018,2,525
+Bahraich,2018,3,533
+Bahraich,2018,4,528
+Bahraich,2018,5,698
+Bahraich,2018,6,571
+Bahraich,2018,7,593
+Bahraich,2018,8,564
+Bahraich,2018,9,535
+Bahraich,2018,10,521
+Bahraich,2018,11,670
+Bahraich,2018,12,844
+Ballia,2016,1,258
+Ballia,2016,2,271
+Ballia,2016,3,343
+Ballia,2016,4,222
+Ballia,2016,5,331
+Ballia,2016,6,353
+Ballia,2016,7,377
+Ballia,2016,8,383
+Ballia,2016,9,395
+Ballia,2016,10,469
+Ballia,2016,11,358
+Ballia,2016,12,375
+Ballia,2017,1,434
+Ballia,2017,2,242
+Ballia,2017,3,323
+Ballia,2017,4,419
+Ballia,2017,5,500
+Ballia,2017,6,729
+Ballia,2017,7,492
+Ballia,2017,8,509
+Ballia,2017,9,432
+Ballia,2017,10,455
+Ballia,2017,11,389
+Ballia,2017,12,301
+Ballia,2018,1,264
+Ballia,2018,2,360
+Ballia,2018,3,406
+Ballia,2018,4,411
+Ballia,2018,5,549
+Ballia,2018,6,434
+Ballia,2018,7,400
+Ballia,2018,8,410
+Ballia,2018,9,364
+Ballia,2018,10,369
+Ballia,2018,11,343
+Ballia,2018,12,354
+Balrampur,2016,1,155
+Balrampur,2016,2,119
+Balrampur,2016,3,171
+Balrampur,2016,4,116
+Balrampur,2016,5,192
+Balrampur,2016,6,165
+Balrampur,2016,7,215
+Balrampur,2016,8,191
+Balrampur,2016,9,133
+Balrampur,2016,10,168
+Balrampur,2016,11,105
+Balrampur,2016,12,222
+Balrampur,2017,1,159
+Balrampur,2017,2,132
+Balrampur,2017,3,175
+Balrampur,2017,4,196
+Balrampur,2017,5,255
+Balrampur,2017,6,255
+Balrampur,2017,7,263
+Balrampur,2017,8,187
+Balrampur,2017,9,191
+Balrampur,2017,10,207
+Balrampur,2017,11,225
+Balrampur,2017,12,155
+Balrampur,2018,1,188
+Balrampur,2018,2,176
+Balrampur,2018,3,165
+Balrampur,2018,4,211
+Balrampur,2018,5,219
+Balrampur,2018,6,186
+Balrampur,2018,7,193
+Balrampur,2018,8,186
+Balrampur,2018,9,170
+Balrampur,2018,10,181
+Balrampur,2018,11,173
+Balrampur,2018,12,256
+Banda,2016,1,215
+Banda,2016,2,181
+Banda,2016,3,172
+Banda,2016,4,159
+Banda,2016,5,260
+Banda,2016,6,219
+Banda,2016,7,258
+Banda,2016,8,234
+Banda,2016,9,205
+Banda,2016,10,232
+Banda,2016,11,188
+Banda,2016,12,205
+Banda,2017,1,316
+Banda,2017,2,156
+Banda,2017,3,293
+Banda,2017,4,228
+Banda,2017,5,276
+Banda,2017,6,229
+Banda,2017,7,306
+Banda,2017,8,305
+Banda,2017,9,358
+Banda,2017,10,340
+Banda,2017,11,412
+Banda,2017,12,277
+Banda,2018,1,291
+Banda,2018,2,270
+Banda,2018,3,308
+Banda,2018,4,262
+Banda,2018,5,379
+Banda,2018,6,317
+Banda,2018,7,315
+Banda,2018,8,306
+Banda,2018,9,290
+Banda,2018,10,256
+Banda,2018,11,289
+Banda,2018,12,225
+Barabanki,2016,1,295
+Barabanki,2016,2,310
+Barabanki,2016,3,363
+Barabanki,2016,4,285
+Barabanki,2016,5,364
+Barabanki,2016,6,322
+Barabanki,2016,7,473
+Barabanki,2016,8,383
+Barabanki,2016,9,322
+Barabanki,2016,10,358
+Barabanki,2016,11,349
+Barabanki,2016,12,449
+Barabanki,2017,1,671
+Barabanki,2017,2,333
+Barabanki,2017,3,523
+Barabanki,2017,4,779
+Barabanki,2017,5,523
+Barabanki,2017,6,428
+Barabanki,2017,7,579
+Barabanki,2017,8,500
+Barabanki,2017,9,477
+Barabanki,2017,10,536
+Barabanki,2017,11,448
+Barabanki,2017,12,452
+Barabanki,2018,1,498
+Barabanki,2018,2,453
+Barabanki,2018,3,744
+Barabanki,2018,4,707
+Barabanki,2018,5,1038
+Barabanki,2018,6,876
+Barabanki,2018,7,924
+Barabanki,2018,8,797
+Barabanki,2018,9,719
+Barabanki,2018,10,678
+Barabanki,2018,11,615
+Barabanki,2018,12,748
+Bareilly,2016,1,625
+Bareilly,2016,2,792
+Bareilly,2016,3,889
+Bareilly,2016,4,733
+Bareilly,2016,5,807
+Bareilly,2016,6,788
+Bareilly,2016,7,1014
+Bareilly,2016,8,989
+Bareilly,2016,9,732
+Bareilly,2016,10,865
+Bareilly,2016,11,638
+Bareilly,2016,12,696
+Bareilly,2017,1,1052
+Bareilly,2017,2,509
+Bareilly,2017,3,860
+Bareilly,2017,4,997
+Bareilly,2017,5,870
+Bareilly,2017,6,862
+Bareilly,2017,7,1085
+Bareilly,2017,8,1092
+Bareilly,2017,9,1097
+Bareilly,2017,10,1159
+Bareilly,2017,11,953
+Bareilly,2017,12,1305
+Bareilly,2018,1,1253
+Bareilly,2018,2,1255
+Bareilly,2018,3,1553
+Bareilly,2018,4,1238
+Bareilly,2018,5,1646
+Bareilly,2018,6,1760
+Bareilly,2018,7,1767
+Bareilly,2018,8,1819
+Bareilly,2018,9,1661
+Bareilly,2018,10,1439
+Bareilly,2018,11,1483
+Bareilly,2018,12,1356
+Basti,2016,1,287
+Basti,2016,2,196
+Basti,2016,3,226
+Basti,2016,4,199
+Basti,2016,5,299
+Basti,2016,6,326
+Basti,2016,7,310
+Basti,2016,8,393
+Basti,2016,9,298
+Basti,2016,10,302
+Basti,2016,11,310
+Basti,2016,12,268
+Basti,2017,1,316
+Basti,2017,2,177
+Basti,2017,3,324
+Basti,2017,4,317
+Basti,2017,5,396
+Basti,2017,6,402
+Basti,2017,7,475
+Basti,2017,8,452
+Basti,2017,9,419
+Basti,2017,10,389
+Basti,2017,11,386
+Basti,2017,12,343
+Basti,2018,1,361
+Basti,2018,2,398
+Basti,2018,3,382
+Basti,2018,4,412
+Basti,2018,5,596
+Basti,2018,6,454
+Basti,2018,7,452
+Basti,2018,8,437
+Basti,2018,9,358
+Basti,2018,10,398
+Basti,2018,11,350
+Basti,2018,12,403
+Bhadohi,2016,1,123
+Bhadohi,2016,2,169
+Bhadohi,2016,3,138
+Bhadohi,2016,4,114
+Bhadohi,2016,5,144
+Bhadohi,2016,6,190
+Bhadohi,2016,7,200
+Bhadohi,2016,8,160
+Bhadohi,2016,9,195
+Bhadohi,2016,10,152
+Bhadohi,2016,11,93
+Bhadohi,2016,12,151
+Bhadohi,2017,1,202
+Bhadohi,2017,2,81
+Bhadohi,2017,3,114
+Bhadohi,2017,4,174
+Bhadohi,2017,5,218
+Bhadohi,2017,6,173
+Bhadohi,2017,7,173
+Bhadohi,2017,8,225
+Bhadohi,2017,9,272
+Bhadohi,2017,10,192
+Bhadohi,2017,11,210
+Bhadohi,2017,12,152
+Bhadohi,2018,1,169
+Bhadohi,2018,2,216
+Bhadohi,2018,3,253
+Bhadohi,2018,4,195
+Bhadohi,2018,5,334
+Bhadohi,2018,6,244
+Bhadohi,2018,7,175
+Bhadohi,2018,8,156
+Bhadohi,2018,9,202
+Bhadohi,2018,10,187
+Bhadohi,2018,11,146
+Bhadohi,2018,12,171
+Bijnor,2016,1,638
+Bijnor,2016,2,730
+Bijnor,2016,3,596
+Bijnor,2016,4,576
+Bijnor,2016,5,668
+Bijnor,2016,6,588
+Bijnor,2016,7,579
+Bijnor,2016,8,686
+Bijnor,2016,9,549
+Bijnor,2016,10,552
+Bijnor,2016,11,462
+Bijnor,2016,12,584
+Bijnor,2017,1,743
+Bijnor,2017,2,386
+Bijnor,2017,3,580
+Bijnor,2017,4,549
+Bijnor,2017,5,669
+Bijnor,2017,6,665
+Bijnor,2017,7,809
+Bijnor,2017,8,672
+Bijnor,2017,9,607
+Bijnor,2017,10,905
+Bijnor,2017,11,745
+Bijnor,2017,12,644
+Bijnor,2018,1,838
+Bijnor,2018,2,712
+Bijnor,2018,3,792
+Bijnor,2018,4,758
+Bijnor,2018,5,948
+Bijnor,2018,6,833
+Bijnor,2018,7,938
+Bijnor,2018,8,866
+Bijnor,2018,9,729
+Bijnor,2018,10,792
+Bijnor,2018,11,649
+Bijnor,2018,12,611
+Bulandshahar,2016,1,557
+Bulandshahar,2016,2,590
+Bulandshahar,2016,3,639
+Bulandshahar,2016,4,604
+Bulandshahar,2016,5,688
+Bulandshahar,2016,6,841
+Bulandshahar,2016,7,937
+Bulandshahar,2016,8,966
+Bulandshahar,2016,9,938
+Bulandshahar,2016,10,807
+Bulandshahar,2016,11,666
+Bulandshahar,2016,12,618
+Bulandshahar,2017,1,690
+Bulandshahar,2017,2,472
+Bulandshahar,2017,3,857
+Bulandshahar,2017,4,796
+Bulandshahar,2017,5,777
+Bulandshahar,2017,6,1051
+Bulandshahar,2017,7,1070
+Bulandshahar,2017,8,1077
+Bulandshahar,2017,9,1336
+Bulandshahar,2017,10,1086
+Bulandshahar,2017,11,847
+Bulandshahar,2017,12,966
+Bulandshahar,2018,1,931
+Bulandshahar,2018,2,995
+Bulandshahar,2018,3,1058
+Bulandshahar,2018,4,957
+Bulandshahar,2018,5,1350
+Bulandshahar,2018,6,1559
+Bulandshahar,2018,7,1555
+Bulandshahar,2018,8,1445
+Bulandshahar,2018,9,1372
+Bulandshahar,2018,10,1957
+Bulandshahar,2018,11,1170
+Bulandshahar,2018,12,918
+Chandauli,2016,1,247
+Chandauli,2016,2,189
+Chandauli,2016,3,298
+Chandauli,2016,4,291
+Chandauli,2016,5,264
+Chandauli,2016,6,360
+Chandauli,2016,7,334
+Chandauli,2016,8,328
+Chandauli,2016,9,289
+Chandauli,2016,10,312
+Chandauli,2016,11,215
+Chandauli,2016,12,272
+Chandauli,2017,1,250
+Chandauli,2017,2,213
+Chandauli,2017,3,352
+Chandauli,2017,4,314
+Chandauli,2017,5,314
+Chandauli,2017,6,321
+Chandauli,2017,7,323
+Chandauli,2017,8,431
+Chandauli,2017,9,389
+Chandauli,2017,10,399
+Chandauli,2017,11,364
+Chandauli,2017,12,287
+Chandauli,2018,1,283
+Chandauli,2018,2,372
+Chandauli,2018,3,324
+Chandauli,2018,4,329
+Chandauli,2018,5,457
+Chandauli,2018,6,405
+Chandauli,2018,7,422
+Chandauli,2018,8,337
+Chandauli,2018,9,311
+Chandauli,2018,10,331
+Chandauli,2018,11,312
+Chandauli,2018,12,347
+Chitrakoot,2016,1,171
+Chitrakoot,2016,2,170
+Chitrakoot,2016,3,217
+Chitrakoot,2016,4,222
+Chitrakoot,2016,5,219
+Chitrakoot,2016,6,200
+Chitrakoot,2016,7,176
+Chitrakoot,2016,8,181
+Chitrakoot,2016,9,176
+Chitrakoot,2016,10,150
+Chitrakoot,2016,11,185
+Chitrakoot,2016,12,176
+Chitrakoot,2017,1,208
+Chitrakoot,2017,2,105
+Chitrakoot,2017,3,197
+Chitrakoot,2017,4,280
+Chitrakoot,2017,5,245
+Chitrakoot,2017,6,209
+Chitrakoot,2017,7,178
+Chitrakoot,2017,8,197
+Chitrakoot,2017,9,236
+Chitrakoot,2017,10,229
+Chitrakoot,2017,11,265
+Chitrakoot,2017,12,219
+Chitrakoot,2018,1,171
+Chitrakoot,2018,2,205
+Chitrakoot,2018,3,175
+Chitrakoot,2018,4,168
+Chitrakoot,2018,5,224
+Chitrakoot,2018,6,222
+Chitrakoot,2018,7,185
+Chitrakoot,2018,8,176
+Chitrakoot,2018,9,217
+Chitrakoot,2018,10,183
+Chitrakoot,2018,11,165
+Chitrakoot,2018,12,171
+Deoria,2016,1,299
+Deoria,2016,2,385
+Deoria,2016,3,426
+Deoria,2016,4,314
+Deoria,2016,5,473
+Deoria,2016,6,386
+Deoria,2016,7,526
+Deoria,2016,8,470
+Deoria,2016,9,374
+Deoria,2016,10,360
+Deoria,2016,11,296
+Deoria,2016,12,416
+Deoria,2017,1,350
+Deoria,2017,2,207
+Deoria,2017,3,338
+Deoria,2017,4,374
+Deoria,2017,5,444
+Deoria,2017,6,492
+Deoria,2017,7,386
+Deoria,2017,8,470
+Deoria,2017,9,512
+Deoria,2017,10,427
+Deoria,2017,11,467
+Deoria,2017,12,407
+Deoria,2018,1,302
+Deoria,2018,2,442
+Deoria,2018,3,415
+Deoria,2018,4,451
+Deoria,2018,5,535
+Deoria,2018,6,492
+Deoria,2018,7,562
+Deoria,2018,8,462
+Deoria,2018,9,426
+Deoria,2018,10,495
+Deoria,2018,11,452
+Deoria,2018,12,515
+Etah,2016,1,403
+Etah,2016,2,369
+Etah,2016,3,448
+Etah,2016,4,433
+Etah,2016,5,493
+Etah,2016,6,558
+Etah,2016,7,622
+Etah,2016,8,448
+Etah,2016,9,380
+Etah,2016,10,403
+Etah,2016,11,311
+Etah,2016,12,353
+Etah,2017,1,375
+Etah,2017,2,403
+Etah,2017,3,1001
+Etah,2017,4,577
+Etah,2017,5,521
+Etah,2017,6,463
+Etah,2017,7,526
+Etah,2017,8,699
+Etah,2017,9,553
+Etah,2017,10,572
+Etah,2017,11,562
+Etah,2017,12,582
+Etah,2018,1,462
+Etah,2018,2,725
+Etah,2018,3,543
+Etah,2018,4,446
+Etah,2018,5,786
+Etah,2018,6,665
+Etah,2018,7,627
+Etah,2018,8,516
+Etah,2018,9,610
+Etah,2018,10,590
+Etah,2018,11,549
+Etah,2018,12,454
+Etawah,2016,1,409
+Etawah,2016,2,389
+Etawah,2016,3,469
+Etawah,2016,4,450
+Etawah,2016,5,530
+Etawah,2016,6,484
+Etawah,2016,7,550
+Etawah,2016,8,564
+Etawah,2016,9,597
+Etawah,2016,10,483
+Etawah,2016,11,460
+Etawah,2016,12,424
+Etawah,2017,1,391
+Etawah,2017,2,284
+Etawah,2017,3,534
+Etawah,2017,4,519
+Etawah,2017,5,542
+Etawah,2017,6,528
+Etawah,2017,7,566
+Etawah,2017,8,624
+Etawah,2017,9,526
+Etawah,2017,10,596
+Etawah,2017,11,439
+Etawah,2017,12,460
+Etawah,2018,1,663
+Etawah,2018,2,631
+Etawah,2018,3,581
+Etawah,2018,4,444
+Etawah,2018,5,583
+Etawah,2018,6,518
+Etawah,2018,7,497
+Etawah,2018,8,605
+Etawah,2018,9,467
+Etawah,2018,10,455
+Etawah,2018,11,503
+Etawah,2018,12,429
+Fatehgarh,2016,1,326
+Fatehgarh,2016,2,303
+Fatehgarh,2016,3,402
+Fatehgarh,2016,4,311
+Fatehgarh,2016,5,399
+Fatehgarh,2016,6,397
+Fatehgarh,2016,7,489
+Fatehgarh,2016,8,398
+Fatehgarh,2016,9,399
+Fatehgarh,2016,10,453
+Fatehgarh,2016,11,413
+Fatehgarh,2016,12,396
+Fatehgarh,2017,1,418
+Fatehgarh,2017,2,268
+Fatehgarh,2017,3,474
+Fatehgarh,2017,4,346
+Fatehgarh,2017,5,424
+Fatehgarh,2017,6,405
+Fatehgarh,2017,7,481
+Fatehgarh,2017,8,432
+Fatehgarh,2017,9,427
+Fatehgarh,2017,10,596
+Fatehgarh,2017,11,593
+Fatehgarh,2017,12,567
+Fatehgarh,2018,1,591
+Fatehgarh,2018,2,601
+Fatehgarh,2018,3,569
+Fatehgarh,2018,4,451
+Fatehgarh,2018,5,801
+Fatehgarh,2018,6,793
+Fatehgarh,2018,7,588
+Fatehgarh,2018,8,545
+Fatehgarh,2018,9,406
+Fatehgarh,2018,10,565
+Fatehgarh,2018,11,624
+Fatehgarh,2018,12,459
+Fatehpur,2016,1,297
+Fatehpur,2016,2,401
+Fatehpur,2016,3,478
+Fatehpur,2016,4,403
+Fatehpur,2016,5,637
+Fatehpur,2016,6,514
+Fatehpur,2016,7,492
+Fatehpur,2016,8,592
+Fatehpur,2016,9,479
+Fatehpur,2016,10,436
+Fatehpur,2016,11,368
+Fatehpur,2016,12,449
+Fatehpur,2017,1,548
+Fatehpur,2017,2,316
+Fatehpur,2017,3,497
+Fatehpur,2017,4,439
+Fatehpur,2017,5,508
+Fatehpur,2017,6,411
+Fatehpur,2017,7,421
+Fatehpur,2017,8,444
+Fatehpur,2017,9,378
+Fatehpur,2017,10,587
+Fatehpur,2017,11,622
+Fatehpur,2017,12,420
+Fatehpur,2018,1,444
+Fatehpur,2018,2,402
+Fatehpur,2018,3,421
+Fatehpur,2018,4,348
+Fatehpur,2018,5,678
+Fatehpur,2018,6,561
+Fatehpur,2018,7,578
+Fatehpur,2018,8,434
+Fatehpur,2018,9,417
+Fatehpur,2018,10,454
+Fatehpur,2018,11,578
+Fatehpur,2018,12,508
+Firozabad,2016,1,769
+Firozabad,2016,2,691
+Firozabad,2016,3,740
+Firozabad,2016,4,672
+Firozabad,2016,5,883
+Firozabad,2016,6,796
+Firozabad,2016,7,692
+Firozabad,2016,8,830
+Firozabad,2016,9,745
+Firozabad,2016,10,672
+Firozabad,2016,11,530
+Firozabad,2016,12,526
+Firozabad,2017,1,666
+Firozabad,2017,2,473
+Firozabad,2017,3,643
+Firozabad,2017,4,822
+Firozabad,2017,5,696
+Firozabad,2017,6,726
+Firozabad,2017,7,762
+Firozabad,2017,8,870
+Firozabad,2017,9,966
+Firozabad,2017,10,908
+Firozabad,2017,11,843
+Firozabad,2017,12,803
+Firozabad,2018,1,710
+Firozabad,2018,2,949
+Firozabad,2018,3,978
+Firozabad,2018,4,694
+Firozabad,2018,5,998
+Firozabad,2018,6,764
+Firozabad,2018,7,809
+Firozabad,2018,8,1039
+Firozabad,2018,9,832
+Firozabad,2018,10,977
+Firozabad,2018,11,793
+Firozabad,2018,12,901
+Gautam Budh Nagar,2016,1,982
+Gautam Budh Nagar,2016,2,1036
+Gautam Budh Nagar,2016,3,1059
+Gautam Budh Nagar,2016,4,960
+Gautam Budh Nagar,2016,5,1079
+Gautam Budh Nagar,2016,6,1090
+Gautam Budh Nagar,2016,7,1125
+Gautam Budh Nagar,2016,8,1080
+Gautam Budh Nagar,2016,9,1118
+Gautam Budh Nagar,2016,10,1158
+Gautam Budh Nagar,2016,11,842
+Gautam Budh Nagar,2016,12,889
+Gautam Budh Nagar,2017,1,1176
+Gautam Budh Nagar,2017,2,850
+Gautam Budh Nagar,2017,3,1140
+Gautam Budh Nagar,2017,4,1278
+Gautam Budh Nagar,2017,5,1367
+Gautam Budh Nagar,2017,6,1264
+Gautam Budh Nagar,2017,7,1165
+Gautam Budh Nagar,2017,8,1343
+Gautam Budh Nagar,2017,9,1385
+Gautam Budh Nagar,2017,10,1338
+Gautam Budh Nagar,2017,11,1328
+Gautam Budh Nagar,2017,12,1279
+Gautam Budh Nagar,2018,1,1463
+Gautam Budh Nagar,2018,2,1168
+Gautam Budh Nagar,2018,3,1371
+Gautam Budh Nagar,2018,4,1207
+Gautam Budh Nagar,2018,5,1664
+Gautam Budh Nagar,2018,6,1674
+Gautam Budh Nagar,2018,7,1667
+Gautam Budh Nagar,2018,8,1511
+Gautam Budh Nagar,2018,9,1767
+Gautam Budh Nagar,2018,10,1545
+Gautam Budh Nagar,2018,11,1427
+Gautam Budh Nagar,2018,12,1327
+Ghaziabad,2016,1,1136
+Ghaziabad,2016,2,1131
+Ghaziabad,2016,3,1188
+Ghaziabad,2016,4,1195
+Ghaziabad,2016,5,1317
+Ghaziabad,2016,6,1444
+Ghaziabad,2016,7,1399
+Ghaziabad,2016,8,1577
+Ghaziabad,2016,9,1365
+Ghaziabad,2016,10,1537
+Ghaziabad,2016,11,1238
+Ghaziabad,2016,12,1349
+Ghaziabad,2017,1,1398
+Ghaziabad,2017,2,1156
+Ghaziabad,2017,3,1627
+Ghaziabad,2017,4,1673
+Ghaziabad,2017,5,1792
+Ghaziabad,2017,6,1596
+Ghaziabad,2017,7,1685
+Ghaziabad,2017,8,1840
+Ghaziabad,2017,9,1918
+Ghaziabad,2017,10,1779
+Ghaziabad,2017,11,1858
+Ghaziabad,2017,12,1597
+Ghaziabad,2018,1,1740
+Ghaziabad,2018,2,1836
+Ghaziabad,2018,3,1789
+Ghaziabad,2018,4,1765
+Ghaziabad,2018,5,2545
+Ghaziabad,2018,6,2568
+Ghaziabad,2018,7,2288
+Ghaziabad,2018,8,2403
+Ghaziabad,2018,9,2345
+Ghaziabad,2018,10,2270
+Ghaziabad,2018,11,1956
+Ghaziabad,2018,12,2001
+Ghazipur,2016,1,251
+Ghazipur,2016,2,204
+Ghazipur,2016,3,257
+Ghazipur,2016,4,175
+Ghazipur,2016,5,242
+Ghazipur,2016,6,282
+Ghazipur,2016,7,287
+Ghazipur,2016,8,293
+Ghazipur,2016,9,309
+Ghazipur,2016,10,362
+Ghazipur,2016,11,271
+Ghazipur,2016,12,323
+Ghazipur,2017,1,431
+Ghazipur,2017,2,231
+Ghazipur,2017,3,371
+Ghazipur,2017,4,426
+Ghazipur,2017,5,420
+Ghazipur,2017,6,381
+Ghazipur,2017,7,376
+Ghazipur,2017,8,316
+Ghazipur,2017,9,411
+Ghazipur,2017,10,382
+Ghazipur,2017,11,371
+Ghazipur,2017,12,309
+Ghazipur,2018,1,313
+Ghazipur,2018,2,330
+Ghazipur,2018,3,365
+Ghazipur,2018,4,334
+Ghazipur,2018,5,478
+Ghazipur,2018,6,411
+Ghazipur,2018,7,408
+Ghazipur,2018,8,406
+Ghazipur,2018,9,440
+Ghazipur,2018,10,404
+Ghazipur,2018,11,391
+Ghazipur,2018,12,460
+Gonda,2016,1,396
+Gonda,2016,2,442
+Gonda,2016,3,428
+Gonda,2016,4,317
+Gonda,2016,5,508
+Gonda,2016,6,349
+Gonda,2016,7,489
+Gonda,2016,8,425
+Gonda,2016,9,388
+Gonda,2016,10,368
+Gonda,2016,11,401
+Gonda,2016,12,485
+Gonda,2017,1,466
+Gonda,2017,2,260
+Gonda,2017,3,413
+Gonda,2017,4,531
+Gonda,2017,5,588
+Gonda,2017,6,547
+Gonda,2017,7,633
+Gonda,2017,8,597
+Gonda,2017,9,547
+Gonda,2017,10,686
+Gonda,2017,11,560
+Gonda,2017,12,459
+Gonda,2018,1,423
+Gonda,2018,2,469
+Gonda,2018,3,547
+Gonda,2018,4,598
+Gonda,2018,5,762
+Gonda,2018,6,614
+Gonda,2018,7,692
+Gonda,2018,8,571
+Gonda,2018,9,502
+Gonda,2018,10,521
+Gonda,2018,11,450
+Gonda,2018,12,634
+Gorakhpur,2016,1,667
+Gorakhpur,2016,2,782
+Gorakhpur,2016,3,839
+Gorakhpur,2016,4,799
+Gorakhpur,2016,5,915
+Gorakhpur,2016,6,733
+Gorakhpur,2016,7,1099
+Gorakhpur,2016,8,1057
+Gorakhpur,2016,9,932
+Gorakhpur,2016,10,936
+Gorakhpur,2016,11,894
+Gorakhpur,2016,12,922
+Gorakhpur,2017,1,887
+Gorakhpur,2017,2,639
+Gorakhpur,2017,3,840
+Gorakhpur,2017,4,908
+Gorakhpur,2017,5,1177
+Gorakhpur,2017,6,1011
+Gorakhpur,2017,7,1291
+Gorakhpur,2017,8,1095
+Gorakhpur,2017,9,1224
+Gorakhpur,2017,10,1165
+Gorakhpur,2017,11,1155
+Gorakhpur,2017,12,987
+Gorakhpur,2018,1,859
+Gorakhpur,2018,2,1166
+Gorakhpur,2018,3,984
+Gorakhpur,2018,4,823
+Gorakhpur,2018,5,1210
+Gorakhpur,2018,6,1116
+Gorakhpur,2018,7,1163
+Gorakhpur,2018,8,1028
+Gorakhpur,2018,9,1041
+Gorakhpur,2018,10,1079
+Gorakhpur,2018,11,908
+Gorakhpur,2018,12,993
+Hamirpur,2016,1,220
+Hamirpur,2016,2,248
+Hamirpur,2016,3,223
+Hamirpur,2016,4,226
+Hamirpur,2016,5,254
+Hamirpur,2016,6,220
+Hamirpur,2016,7,198
+Hamirpur,2016,8,201
+Hamirpur,2016,9,171
+Hamirpur,2016,10,211
+Hamirpur,2016,11,141
+Hamirpur,2016,12,165
+Hamirpur,2017,1,318
+Hamirpur,2017,2,191
+Hamirpur,2017,3,211
+Hamirpur,2017,4,246
+Hamirpur,2017,5,225
+Hamirpur,2017,6,326
+Hamirpur,2017,7,321
+Hamirpur,2017,8,309
+Hamirpur,2017,9,272
+Hamirpur,2017,10,413
+Hamirpur,2017,11,302
+Hamirpur,2017,12,241
+Hamirpur,2018,1,245
+Hamirpur,2018,2,250
+Hamirpur,2018,3,274
+Hamirpur,2018,4,258
+Hamirpur,2018,5,343
+Hamirpur,2018,6,322
+Hamirpur,2018,7,294
+Hamirpur,2018,8,373
+Hamirpur,2018,9,281
+Hamirpur,2018,10,485
+Hamirpur,2018,11,391
+Hamirpur,2018,12,354
+Hapur,2016,1,364
+Hapur,2016,2,238
+Hapur,2016,3,343
+Hapur,2016,4,233
+Hapur,2016,5,313
+Hapur,2016,6,297
+Hapur,2016,7,285
+Hapur,2016,8,310
+Hapur,2016,9,289
+Hapur,2016,10,326
+Hapur,2016,11,295
+Hapur,2016,12,285
+Hapur,2017,1,340
+Hapur,2017,2,333
+Hapur,2017,3,437
+Hapur,2017,4,300
+Hapur,2017,5,382
+Hapur,2017,6,355
+Hapur,2017,7,380
+Hapur,2017,8,469
+Hapur,2017,9,408
+Hapur,2017,10,439
+Hapur,2017,11,347
+Hapur,2017,12,433
+Hapur,2018,1,369
+Hapur,2018,2,286
+Hapur,2018,3,319
+Hapur,2018,4,311
+Hapur,2018,5,445
+Hapur,2018,6,493
+Hapur,2018,7,535
+Hapur,2018,8,502
+Hapur,2018,9,490
+Hapur,2018,10,397
+Hapur,2018,11,329
+Hapur,2018,12,343
+Hardoi,2016,1,437
+Hardoi,2016,2,538
+Hardoi,2016,3,637
+Hardoi,2016,4,420
+Hardoi,2016,5,554
+Hardoi,2016,6,507
+Hardoi,2016,7,638
+Hardoi,2016,8,431
+Hardoi,2016,9,525
+Hardoi,2016,10,494
+Hardoi,2016,11,372
+Hardoi,2016,12,634
+Hardoi,2017,1,582
+Hardoi,2017,2,316
+Hardoi,2017,3,496
+Hardoi,2017,4,715
+Hardoi,2017,5,876
+Hardoi,2017,6,818
+Hardoi,2017,7,788
+Hardoi,2017,8,746
+Hardoi,2017,9,731
+Hardoi,2017,10,920
+Hardoi,2017,11,842
+Hardoi,2017,12,765
+Hardoi,2018,1,685
+Hardoi,2018,2,826
+Hardoi,2018,3,851
+Hardoi,2018,4,720
+Hardoi,2018,5,1028
+Hardoi,2018,6,944
+Hardoi,2018,7,863
+Hardoi,2018,8,852
+Hardoi,2018,9,719
+Hardoi,2018,10,777
+Hardoi,2018,11,755
+Hardoi,2018,12,665
+Hathras,2016,1,372
+Hathras,2016,2,335
+Hathras,2016,3,342
+Hathras,2016,4,267
+Hathras,2016,5,412
+Hathras,2016,6,363
+Hathras,2016,7,311
+Hathras,2016,8,344
+Hathras,2016,9,336
+Hathras,2016,10,317
+Hathras,2016,11,292
+Hathras,2016,12,311
+Hathras,2017,1,318
+Hathras,2017,2,210
+Hathras,2017,3,368
+Hathras,2017,4,340
+Hathras,2017,5,377
+Hathras,2017,6,402
+Hathras,2017,7,538
+Hathras,2017,8,506
+Hathras,2017,9,553
+Hathras,2017,10,490
+Hathras,2017,11,388
+Hathras,2017,12,516
+Hathras,2018,1,521
+Hathras,2018,2,433
+Hathras,2018,3,419
+Hathras,2018,4,349
+Hathras,2018,5,588
+Hathras,2018,6,485
+Hathras,2018,7,453
+Hathras,2018,8,559
+Hathras,2018,9,419
+Hathras,2018,10,629
+Hathras,2018,11,522
+Hathras,2018,12,423
+Jalaun,2016,1,300
+Jalaun,2016,2,319
+Jalaun,2016,3,339
+Jalaun,2016,4,280
+Jalaun,2016,5,315
+Jalaun,2016,6,254
+Jalaun,2016,7,263
+Jalaun,2016,8,251
+Jalaun,2016,9,242
+Jalaun,2016,10,336
+Jalaun,2016,11,239
+Jalaun,2016,12,274
+Jalaun,2017,1,418
+Jalaun,2017,2,205
+Jalaun,2017,3,385
+Jalaun,2017,4,307
+Jalaun,2017,5,348
+Jalaun,2017,6,293
+Jalaun,2017,7,340
+Jalaun,2017,8,322
+Jalaun,2017,9,366
+Jalaun,2017,10,576
+Jalaun,2017,11,393
+Jalaun,2017,12,317
+Jalaun,2018,1,329
+Jalaun,2018,2,338
+Jalaun,2018,3,412
+Jalaun,2018,4,286
+Jalaun,2018,5,525
+Jalaun,2018,6,476
+Jalaun,2018,7,301
+Jalaun,2018,8,399
+Jalaun,2018,9,338
+Jalaun,2018,10,378
+Jalaun,2018,11,529
+Jalaun,2018,12,448
+Jaunpur,2016,1,303
+Jaunpur,2016,2,315
+Jaunpur,2016,3,311
+Jaunpur,2016,4,298
+Jaunpur,2016,5,354
+Jaunpur,2016,6,396
+Jaunpur,2016,7,437
+Jaunpur,2016,8,375
+Jaunpur,2016,9,341
+Jaunpur,2016,10,418
+Jaunpur,2016,11,304
+Jaunpur,2016,12,367
+Jaunpur,2017,1,410
+Jaunpur,2017,2,341
+Jaunpur,2017,3,408
+Jaunpur,2017,4,426
+Jaunpur,2017,5,622
+Jaunpur,2017,6,577
+Jaunpur,2017,7,603
+Jaunpur,2017,8,622
+Jaunpur,2017,9,588
+Jaunpur,2017,10,811
+Jaunpur,2017,11,607
+Jaunpur,2017,12,561
+Jaunpur,2018,1,559
+Jaunpur,2018,2,571
+Jaunpur,2018,3,667
+Jaunpur,2018,4,678
+Jaunpur,2018,5,887
+Jaunpur,2018,6,825
+Jaunpur,2018,7,699
+Jaunpur,2018,8,779
+Jaunpur,2018,9,679
+Jaunpur,2018,10,826
+Jaunpur,2018,11,744
+Jaunpur,2018,12,681
+Jhansi,2016,1,491
+Jhansi,2016,2,455
+Jhansi,2016,3,527
+Jhansi,2016,4,462
+Jhansi,2016,5,581
+Jhansi,2016,6,477
+Jhansi,2016,7,546
+Jhansi,2016,8,473
+Jhansi,2016,9,449
+Jhansi,2016,10,428
+Jhansi,2016,11,455
+Jhansi,2016,12,614
+Jhansi,2017,1,702
+Jhansi,2017,2,266
+Jhansi,2017,3,499
+Jhansi,2017,4,470
+Jhansi,2017,5,597
+Jhansi,2017,6,607
+Jhansi,2017,7,690
+Jhansi,2017,8,696
+Jhansi,2017,9,754
+Jhansi,2017,10,788
+Jhansi,2017,11,685
+Jhansi,2017,12,625
+Jhansi,2018,1,696
+Jhansi,2018,2,596
+Jhansi,2018,3,629
+Jhansi,2018,4,469
+Jhansi,2018,5,903
+Jhansi,2018,6,671
+Jhansi,2018,7,710
+Jhansi,2018,8,677
+Jhansi,2018,9,616
+Jhansi,2018,10,735
+Jhansi,2018,11,898
+Jhansi,2018,12,766
+Jyotibaphulleynagar,2016,1,369
+Jyotibaphulleynagar,2016,2,341
+Jyotibaphulleynagar,2016,3,393
+Jyotibaphulleynagar,2016,4,425
+Jyotibaphulleynagar,2016,5,381
+Jyotibaphulleynagar,2016,6,436
+Jyotibaphulleynagar,2016,7,396
+Jyotibaphulleynagar,2016,8,390
+Jyotibaphulleynagar,2016,9,385
+Jyotibaphulleynagar,2016,10,443
+Jyotibaphulleynagar,2016,11,335
+Jyotibaphulleynagar,2016,12,449
+Jyotibaphulleynagar,2017,1,592
+Jyotibaphulleynagar,2017,2,260
+Jyotibaphulleynagar,2017,3,365
+Jyotibaphulleynagar,2017,4,405
+Jyotibaphulleynagar,2017,5,494
+Jyotibaphulleynagar,2017,6,477
+Jyotibaphulleynagar,2017,7,505
+Jyotibaphulleynagar,2017,8,489
+Jyotibaphulleynagar,2017,9,412
+Jyotibaphulleynagar,2017,10,558
+Jyotibaphulleynagar,2017,11,431
+Jyotibaphulleynagar,2017,12,483
+Jyotibaphulleynagar,2018,1,558
+Jyotibaphulleynagar,2018,2,439
+Jyotibaphulleynagar,2018,3,410
+Jyotibaphulleynagar,2018,4,420
+Jyotibaphulleynagar,2018,5,539
+Jyotibaphulleynagar,2018,6,649
+Jyotibaphulleynagar,2018,7,643
+Jyotibaphulleynagar,2018,8,537
+Jyotibaphulleynagar,2018,9,609
+Jyotibaphulleynagar,2018,10,455
+Jyotibaphulleynagar,2018,11,418
+Jyotibaphulleynagar,2018,12,365
+Kannauj,2016,1,275
+Kannauj,2016,2,301
+Kannauj,2016,3,357
+Kannauj,2016,4,241
+Kannauj,2016,5,356
+Kannauj,2016,6,356
+Kannauj,2016,7,418
+Kannauj,2016,8,418
+Kannauj,2016,9,372
+Kannauj,2016,10,366
+Kannauj,2016,11,370
+Kannauj,2016,12,366
+Kannauj,2017,1,414
+Kannauj,2017,2,243
+Kannauj,2017,3,405
+Kannauj,2017,4,346
+Kannauj,2017,5,386
+Kannauj,2017,6,434
+Kannauj,2017,7,425
+Kannauj,2017,8,438
+Kannauj,2017,9,494
+Kannauj,2017,10,433
+Kannauj,2017,11,382
+Kannauj,2017,12,336
+Kannauj,2018,1,411
+Kannauj,2018,2,335
+Kannauj,2018,3,425
+Kannauj,2018,4,381
+Kannauj,2018,5,566
+Kannauj,2018,6,463
+Kannauj,2018,7,535
+Kannauj,2018,8,497
+Kannauj,2018,9,508
+Kannauj,2018,10,495
+Kannauj,2018,11,393
+Kannauj,2018,12,408
+Kanpur City,2016,1,1088
+Kanpur City,2016,2,1112
+Kanpur City,2016,3,1224
+Kanpur City,2016,4,1028
+Kanpur City,2016,5,1045
+Kanpur City,2016,6,1045
+Kanpur City,2016,7,1035
+Kanpur City,2016,8,1108
+Kanpur City,2016,9,1049
+Kanpur City,2016,10,1092
+Kanpur City,2016,11,1102
+Kanpur City,2016,12,1003
+Kanpur City,2017,1,1230
+Kanpur City,2017,2,740
+Kanpur City,2017,3,1127
+Kanpur City,2017,4,1208
+Kanpur City,2017,5,1316
+Kanpur City,2017,6,1378
+Kanpur City,2017,7,1335
+Kanpur City,2017,8,1628
+Kanpur City,2017,9,1672
+Kanpur City,2017,10,1608
+Kanpur City,2017,11,1389
+Kanpur City,2017,12,1287
+Kanpur City,2018,1,1236
+Kanpur City,2018,2,1511
+Kanpur City,2018,3,1528
+Kanpur City,2018,4,1441
+Kanpur City,2018,5,1486
+Kanpur City,2018,6,1517
+Kanpur City,2018,7,1638
+Kanpur City,2018,8,1419
+Kanpur City,2018,9,1436
+Kanpur City,2018,10,1647
+Kanpur City,2018,11,1475
+Kanpur City,2018,12,1632
+Kanpur Dehat,2016,1,261
+Kanpur Dehat,2016,2,290
+Kanpur Dehat,2016,3,361
+Kanpur Dehat,2016,4,368
+Kanpur Dehat,2016,5,427
+Kanpur Dehat,2016,6,363
+Kanpur Dehat,2016,7,504
+Kanpur Dehat,2016,8,450
+Kanpur Dehat,2016,9,387
+Kanpur Dehat,2016,10,485
+Kanpur Dehat,2016,11,469
+Kanpur Dehat,2016,12,348
+Kanpur Dehat,2017,1,312
+Kanpur Dehat,2017,2,276
+Kanpur Dehat,2017,3,412
+Kanpur Dehat,2017,4,371
+Kanpur Dehat,2017,5,459
+Kanpur Dehat,2017,6,559
+Kanpur Dehat,2017,7,762
+Kanpur Dehat,2017,8,658
+Kanpur Dehat,2017,9,889
+Kanpur Dehat,2017,10,708
+Kanpur Dehat,2017,11,539
+Kanpur Dehat,2017,12,564
+Kanpur Dehat,2018,1,691
+Kanpur Dehat,2018,2,406
+Kanpur Dehat,2018,3,384
+Kanpur Dehat,2018,4,406
+Kanpur Dehat,2018,5,466
+Kanpur Dehat,2018,6,618
+Kanpur Dehat,2018,7,512
+Kanpur Dehat,2018,8,477
+Kanpur Dehat,2018,9,379
+Kanpur Dehat,2018,10,382
+Kanpur Dehat,2018,11,464
+Kanpur Dehat,2018,12,371
+Kasganj,2016,1,255
+Kasganj,2016,2,188
+Kasganj,2016,3,227
+Kasganj,2016,4,212
+Kasganj,2016,5,200
+Kasganj,2016,6,232
+Kasganj,2016,7,239
+Kasganj,2016,8,252
+Kasganj,2016,9,258
+Kasganj,2016,10,319
+Kasganj,2016,11,239
+Kasganj,2016,12,258
+Kasganj,2017,1,249
+Kasganj,2017,2,186
+Kasganj,2017,3,441
+Kasganj,2017,4,266
+Kasganj,2017,5,295
+Kasganj,2017,6,291
+Kasganj,2017,7,361
+Kasganj,2017,8,416
+Kasganj,2017,9,351
+Kasganj,2017,10,327
+Kasganj,2017,11,315
+Kasganj,2017,12,334
+Kasganj,2018,1,325
+Kasganj,2018,2,370
+Kasganj,2018,3,326
+Kasganj,2018,4,279
+Kasganj,2018,5,374
+Kasganj,2018,6,453
+Kasganj,2018,7,451
+Kasganj,2018,8,351
+Kasganj,2018,9,327
+Kasganj,2018,10,356
+Kasganj,2018,11,313
+Kasganj,2018,12,305
+Kaushambi,2016,1,213
+Kaushambi,2016,2,233
+Kaushambi,2016,3,287
+Kaushambi,2016,4,267
+Kaushambi,2016,5,319
+Kaushambi,2016,6,255
+Kaushambi,2016,7,311
+Kaushambi,2016,8,292
+Kaushambi,2016,9,250
+Kaushambi,2016,10,263
+Kaushambi,2016,11,249
+Kaushambi,2016,12,224
+Kaushambi,2017,1,349
+Kaushambi,2017,2,197
+Kaushambi,2017,3,293
+Kaushambi,2017,4,346
+Kaushambi,2017,5,411
+Kaushambi,2017,6,344
+Kaushambi,2017,7,368
+Kaushambi,2017,8,363
+Kaushambi,2017,9,352
+Kaushambi,2017,10,414
+Kaushambi,2017,11,371
+Kaushambi,2017,12,347
+Kaushambi,2018,1,328
+Kaushambi,2018,2,412
+Kaushambi,2018,3,372
+Kaushambi,2018,4,308
+Kaushambi,2018,5,560
+Kaushambi,2018,6,466
+Kaushambi,2018,7,373
+Kaushambi,2018,8,479
+Kaushambi,2018,9,438
+Kaushambi,2018,10,404
+Kaushambi,2018,11,376
+Kaushambi,2018,12,380
+Kheri,2016,1,406
+Kheri,2016,2,371
+Kheri,2016,3,592
+Kheri,2016,4,488
+Kheri,2016,5,479
+Kheri,2016,6,450
+Kheri,2016,7,554
+Kheri,2016,8,548
+Kheri,2016,9,640
+Kheri,2016,10,556
+Kheri,2016,11,535
+Kheri,2016,12,522
+Kheri,2017,1,741
+Kheri,2017,2,424
+Kheri,2017,3,504
+Kheri,2017,4,597
+Kheri,2017,5,733
+Kheri,2017,6,686
+Kheri,2017,7,799
+Kheri,2017,8,749
+Kheri,2017,9,830
+Kheri,2017,10,1009
+Kheri,2017,11,645
+Kheri,2017,12,765
+Kheri,2018,1,727
+Kheri,2018,2,648
+Kheri,2018,3,806
+Kheri,2018,4,787
+Kheri,2018,5,1048
+Kheri,2018,6,1084
+Kheri,2018,7,1178
+Kheri,2018,8,997
+Kheri,2018,9,899
+Kheri,2018,10,930
+Kheri,2018,11,804
+Kheri,2018,12,940
+Kushi Nagar,2016,1,567
+Kushi Nagar,2016,2,464
+Kushi Nagar,2016,3,625
+Kushi Nagar,2016,4,490
+Kushi Nagar,2016,5,566
+Kushi Nagar,2016,6,587
+Kushi Nagar,2016,7,717
+Kushi Nagar,2016,8,700
+Kushi Nagar,2016,9,516
+Kushi Nagar,2016,10,493
+Kushi Nagar,2016,11,494
+Kushi Nagar,2016,12,458
+Kushi Nagar,2017,1,490
+Kushi Nagar,2017,2,354
+Kushi Nagar,2017,3,422
+Kushi Nagar,2017,4,643
+Kushi Nagar,2017,5,609
+Kushi Nagar,2017,6,512
+Kushi Nagar,2017,7,491
+Kushi Nagar,2017,8,660
+Kushi Nagar,2017,9,712
+Kushi Nagar,2017,10,708
+Kushi Nagar,2017,11,673
+Kushi Nagar,2017,12,739
+Kushi Nagar,2018,1,538
+Kushi Nagar,2018,2,570
+Kushi Nagar,2018,3,458
+Kushi Nagar,2018,4,600
+Kushi Nagar,2018,5,783
+Kushi Nagar,2018,6,577
+Kushi Nagar,2018,7,672
+Kushi Nagar,2018,8,591
+Kushi Nagar,2018,9,534
+Kushi Nagar,2018,10,538
+Kushi Nagar,2018,11,537
+Kushi Nagar,2018,12,583
+Lalitpur,2016,1,191
+Lalitpur,2016,2,215
+Lalitpur,2016,3,250
+Lalitpur,2016,4,258
+Lalitpur,2016,5,306
+Lalitpur,2016,6,287
+Lalitpur,2016,7,398
+Lalitpur,2016,8,248
+Lalitpur,2016,9,248
+Lalitpur,2016,10,274
+Lalitpur,2016,11,194
+Lalitpur,2016,12,220
+Lalitpur,2017,1,377
+Lalitpur,2017,2,154
+Lalitpur,2017,3,244
+Lalitpur,2017,4,232
+Lalitpur,2017,5,241
+Lalitpur,2017,6,278
+Lalitpur,2017,7,440
+Lalitpur,2017,8,278
+Lalitpur,2017,9,342
+Lalitpur,2017,10,372
+Lalitpur,2017,11,604
+Lalitpur,2017,12,279
+Lalitpur,2018,1,350
+Lalitpur,2018,2,336
+Lalitpur,2018,3,346
+Lalitpur,2018,4,291
+Lalitpur,2018,5,452
+Lalitpur,2018,6,543
+Lalitpur,2018,7,502
+Lalitpur,2018,8,403
+Lalitpur,2018,9,344
+Lalitpur,2018,10,360
+Lalitpur,2018,11,363
+Lalitpur,2018,12,450
+Lucknow,2016,1,1461
+Lucknow,2016,2,1502
+Lucknow,2016,3,1775
+Lucknow,2016,4,1805
+Lucknow,2016,5,2028
+Lucknow,2016,6,1983
+Lucknow,2016,7,1994
+Lucknow,2016,8,2189
+Lucknow,2016,9,2134
+Lucknow,2016,10,1990
+Lucknow,2016,11,1642
+Lucknow,2016,12,1729
+Lucknow,2017,1,2000
+Lucknow,2017,2,1594
+Lucknow,2017,3,1977
+Lucknow,2017,4,2286
+Lucknow,2017,5,2399
+Lucknow,2017,6,2363
+Lucknow,2017,7,2488
+Lucknow,2017,8,2484
+Lucknow,2017,9,2253
+Lucknow,2017,10,2301
+Lucknow,2017,11,2059
+Lucknow,2017,12,2008
+Lucknow,2018,1,1943
+Lucknow,2018,2,1965
+Lucknow,2018,3,2181
+Lucknow,2018,4,2240
+Lucknow,2018,5,2949
+Lucknow,2018,6,2729
+Lucknow,2018,7,2729
+Lucknow,2018,8,2554
+Lucknow,2018,9,2571
+Lucknow,2018,10,2731
+Lucknow,2018,11,2251
+Lucknow,2018,12,2245
+Mahoba,2016,1,133
+Mahoba,2016,2,154
+Mahoba,2016,3,147
+Mahoba,2016,4,123
+Mahoba,2016,5,151
+Mahoba,2016,6,144
+Mahoba,2016,7,168
+Mahoba,2016,8,149
+Mahoba,2016,9,157
+Mahoba,2016,10,164
+Mahoba,2016,11,143
+Mahoba,2016,12,144
+Mahoba,2017,1,240
+Mahoba,2017,2,110
+Mahoba,2017,3,155
+Mahoba,2017,4,147
+Mahoba,2017,5,201
+Mahoba,2017,6,170
+Mahoba,2017,7,211
+Mahoba,2017,8,228
+Mahoba,2017,9,161
+Mahoba,2017,10,288
+Mahoba,2017,11,258
+Mahoba,2017,12,201
+Mahoba,2018,1,265
+Mahoba,2018,2,225
+Mahoba,2018,3,222
+Mahoba,2018,4,196
+Mahoba,2018,5,307
+Mahoba,2018,6,219
+Mahoba,2018,7,219
+Mahoba,2018,8,180
+Mahoba,2018,9,226
+Mahoba,2018,10,193
+Mahoba,2018,11,238
+Mahoba,2018,12,254
+Mahrajganj,2016,1,279
+Mahrajganj,2016,2,258
+Mahrajganj,2016,3,368
+Mahrajganj,2016,4,289
+Mahrajganj,2016,5,336
+Mahrajganj,2016,6,383
+Mahrajganj,2016,7,370
+Mahrajganj,2016,8,356
+Mahrajganj,2016,9,356
+Mahrajganj,2016,10,249
+Mahrajganj,2016,11,222
+Mahrajganj,2016,12,405
+Mahrajganj,2017,1,355
+Mahrajganj,2017,2,240
+Mahrajganj,2017,3,385
+Mahrajganj,2017,4,456
+Mahrajganj,2017,5,436
+Mahrajganj,2017,6,404
+Mahrajganj,2017,7,526
+Mahrajganj,2017,8,390
+Mahrajganj,2017,9,385
+Mahrajganj,2017,10,447
+Mahrajganj,2017,11,471
+Mahrajganj,2017,12,405
+Mahrajganj,2018,1,422
+Mahrajganj,2018,2,475
+Mahrajganj,2018,3,452
+Mahrajganj,2018,4,446
+Mahrajganj,2018,5,521
+Mahrajganj,2018,6,491
+Mahrajganj,2018,7,583
+Mahrajganj,2018,8,422
+Mahrajganj,2018,9,319
+Mahrajganj,2018,10,410
+Mahrajganj,2018,11,420
+Mahrajganj,2018,12,568
+Mainpuri,2016,1,359
+Mainpuri,2016,2,358
+Mainpuri,2016,3,467
+Mainpuri,2016,4,348
+Mainpuri,2016,5,534
+Mainpuri,2016,6,691
+Mainpuri,2016,7,438
+Mainpuri,2016,8,388
+Mainpuri,2016,9,475
+Mainpuri,2016,10,437
+Mainpuri,2016,11,362
+Mainpuri,2016,12,438
+Mainpuri,2017,1,556
+Mainpuri,2017,2,266
+Mainpuri,2017,3,423
+Mainpuri,2017,4,380
+Mainpuri,2017,5,510
+Mainpuri,2017,6,438
+Mainpuri,2017,7,570
+Mainpuri,2017,8,723
+Mainpuri,2017,9,494
+Mainpuri,2017,10,537
+Mainpuri,2017,11,631
+Mainpuri,2017,12,585
+Mainpuri,2018,1,620
+Mainpuri,2018,2,717
+Mainpuri,2018,3,598
+Mainpuri,2018,4,610
+Mainpuri,2018,5,787
+Mainpuri,2018,6,747
+Mainpuri,2018,7,705
+Mainpuri,2018,8,714
+Mainpuri,2018,9,488
+Mainpuri,2018,10,519
+Mainpuri,2018,11,512
+Mainpuri,2018,12,464
+Mathura,2016,1,836
+Mathura,2016,2,705
+Mathura,2016,3,794
+Mathura,2016,4,745
+Mathura,2016,5,912
+Mathura,2016,6,793
+Mathura,2016,7,745
+Mathura,2016,8,859
+Mathura,2016,9,700
+Mathura,2016,10,729
+Mathura,2016,11,714
+Mathura,2016,12,818
+Mathura,2017,1,1021
+Mathura,2017,2,660
+Mathura,2017,3,1032
+Mathura,2017,4,891
+Mathura,2017,5,839
+Mathura,2017,6,890
+Mathura,2017,7,1111
+Mathura,2017,8,1173
+Mathura,2017,9,1213
+Mathura,2017,10,1015
+Mathura,2017,11,1034
+Mathura,2017,12,1127
+Mathura,2018,1,1113
+Mathura,2018,2,1286
+Mathura,2018,3,1119
+Mathura,2018,4,926
+Mathura,2018,5,1586
+Mathura,2018,6,1647
+Mathura,2018,7,1534
+Mathura,2018,8,1287
+Mathura,2018,9,1100
+Mathura,2018,10,1035
+Mathura,2018,11,784
+Mathura,2018,12,838
+Mau,2016,1,225
+Mau,2016,2,219
+Mau,2016,3,279
+Mau,2016,4,213
+Mau,2016,5,266
+Mau,2016,6,239
+Mau,2016,7,326
+Mau,2016,8,236
+Mau,2016,9,247
+Mau,2016,10,283
+Mau,2016,11,292
+Mau,2016,12,284
+Mau,2017,1,335
+Mau,2017,2,193
+Mau,2017,3,324
+Mau,2017,4,375
+Mau,2017,5,434
+Mau,2017,6,423
+Mau,2017,7,364
+Mau,2017,8,357
+Mau,2017,9,452
+Mau,2017,10,382
+Mau,2017,11,285
+Mau,2017,12,315
+Mau,2018,1,280
+Mau,2018,2,369
+Mau,2018,3,315
+Mau,2018,4,315
+Mau,2018,5,500
+Mau,2018,6,435
+Mau,2018,7,378
+Mau,2018,8,422
+Mau,2018,9,401
+Mau,2018,10,383
+Mau,2018,11,311
+Mau,2018,12,376
+Meerut,2016,1,985
+Meerut,2016,2,860
+Meerut,2016,3,937
+Meerut,2016,4,877
+Meerut,2016,5,1077
+Meerut,2016,6,1067
+Meerut,2016,7,1101
+Meerut,2016,8,1200
+Meerut,2016,9,1012
+Meerut,2016,10,1001
+Meerut,2016,11,960
+Meerut,2016,12,984
+Meerut,2017,1,1154
+Meerut,2017,2,797
+Meerut,2017,3,1354
+Meerut,2017,4,1307
+Meerut,2017,5,1210
+Meerut,2017,6,1196
+Meerut,2017,7,1265
+Meerut,2017,8,1611
+Meerut,2017,9,1603
+Meerut,2017,10,1520
+Meerut,2017,11,1215
+Meerut,2017,12,1465
+Meerut,2018,1,1800
+Meerut,2018,2,1731
+Meerut,2018,3,1579
+Meerut,2018,4,1562
+Meerut,2018,5,1977
+Meerut,2018,6,1864
+Meerut,2018,7,2139
+Meerut,2018,8,1808
+Meerut,2018,9,1696
+Meerut,2018,10,1599
+Meerut,2018,11,1568
+Meerut,2018,12,1523
+Mirzapur,2016,1,304
+Mirzapur,2016,2,336
+Mirzapur,2016,3,263
+Mirzapur,2016,4,210
+Mirzapur,2016,5,349
+Mirzapur,2016,6,279
+Mirzapur,2016,7,354
+Mirzapur,2016,8,257
+Mirzapur,2016,9,277
+Mirzapur,2016,10,292
+Mirzapur,2016,11,374
+Mirzapur,2016,12,396
+Mirzapur,2017,1,518
+Mirzapur,2017,2,245
+Mirzapur,2017,3,255
+Mirzapur,2017,4,402
+Mirzapur,2017,5,669
+Mirzapur,2017,6,726
+Mirzapur,2017,7,602
+Mirzapur,2017,8,572
+Mirzapur,2017,9,411
+Mirzapur,2017,10,576
+Mirzapur,2017,11,508
+Mirzapur,2017,12,402
+Mirzapur,2018,1,410
+Mirzapur,2018,2,516
+Mirzapur,2018,3,432
+Mirzapur,2018,4,402
+Mirzapur,2018,5,498
+Mirzapur,2018,6,417
+Mirzapur,2018,7,471
+Mirzapur,2018,8,452
+Mirzapur,2018,9,312
+Mirzapur,2018,10,329
+Mirzapur,2018,11,272
+Mirzapur,2018,12,424
+Moradabad,2016,1,680
+Moradabad,2016,2,769
+Moradabad,2016,3,738
+Moradabad,2016,4,720
+Moradabad,2016,5,864
+Moradabad,2016,6,1058
+Moradabad,2016,7,1135
+Moradabad,2016,8,1027
+Moradabad,2016,9,1186
+Moradabad,2016,10,954
+Moradabad,2016,11,641
+Moradabad,2016,12,736
+Moradabad,2017,1,986
+Moradabad,2017,2,775
+Moradabad,2017,3,899
+Moradabad,2017,4,996
+Moradabad,2017,5,1011
+Moradabad,2017,6,866
+Moradabad,2017,7,992
+Moradabad,2017,8,951
+Moradabad,2017,9,1114
+Moradabad,2017,10,1095
+Moradabad,2017,11,822
+Moradabad,2017,12,686
+Moradabad,2018,1,822
+Moradabad,2018,2,814
+Moradabad,2018,3,834
+Moradabad,2018,4,839
+Moradabad,2018,5,1146
+Moradabad,2018,6,1183
+Moradabad,2018,7,1262
+Moradabad,2018,8,1079
+Moradabad,2018,9,947
+Moradabad,2018,10,1250
+Moradabad,2018,11,958
+Moradabad,2018,12,930
+Muzaffar Nagar,2016,1,679
+Muzaffar Nagar,2016,2,661
+Muzaffar Nagar,2016,3,840
+Muzaffar Nagar,2016,4,674
+Muzaffar Nagar,2016,5,824
+Muzaffar Nagar,2016,6,754
+Muzaffar Nagar,2016,7,811
+Muzaffar Nagar,2016,8,923
+Muzaffar Nagar,2016,9,806
+Muzaffar Nagar,2016,10,688
+Muzaffar Nagar,2016,11,540
+Muzaffar Nagar,2016,12,592
+Muzaffar Nagar,2017,1,854
+Muzaffar Nagar,2017,2,536
+Muzaffar Nagar,2017,3,810
+Muzaffar Nagar,2017,4,709
+Muzaffar Nagar,2017,5,887
+Muzaffar Nagar,2017,6,694
+Muzaffar Nagar,2017,7,755
+Muzaffar Nagar,2017,8,953
+Muzaffar Nagar,2017,9,921
+Muzaffar Nagar,2017,10,841
+Muzaffar Nagar,2017,11,769
+Muzaffar Nagar,2017,12,710
+Muzaffar Nagar,2018,1,871
+Muzaffar Nagar,2018,2,855
+Muzaffar Nagar,2018,3,895
+Muzaffar Nagar,2018,4,830
+Muzaffar Nagar,2018,5,1173
+Muzaffar Nagar,2018,6,1008
+Muzaffar Nagar,2018,7,1022
+Muzaffar Nagar,2018,8,979
+Muzaffar Nagar,2018,9,1178
+Muzaffar Nagar,2018,10,1109
+Muzaffar Nagar,2018,11,863
+Muzaffar Nagar,2018,12,769
+Pilibhit,2016,1,350
+Pilibhit,2016,2,378
+Pilibhit,2016,3,394
+Pilibhit,2016,4,331
+Pilibhit,2016,5,359
+Pilibhit,2016,6,436
+Pilibhit,2016,7,504
+Pilibhit,2016,8,422
+Pilibhit,2016,9,364
+Pilibhit,2016,10,322
+Pilibhit,2016,11,247
+Pilibhit,2016,12,285
+Pilibhit,2017,1,435
+Pilibhit,2017,2,263
+Pilibhit,2017,3,368
+Pilibhit,2017,4,407
+Pilibhit,2017,5,480
+Pilibhit,2017,6,491
+Pilibhit,2017,7,641
+Pilibhit,2017,8,534
+Pilibhit,2017,9,579
+Pilibhit,2017,10,562
+Pilibhit,2017,11,473
+Pilibhit,2017,12,470
+Pilibhit,2018,1,567
+Pilibhit,2018,2,488
+Pilibhit,2018,3,576
+Pilibhit,2018,4,507
+Pilibhit,2018,5,629
+Pilibhit,2018,6,566
+Pilibhit,2018,7,523
+Pilibhit,2018,8,577
+Pilibhit,2018,9,500
+Pilibhit,2018,10,449
+Pilibhit,2018,11,449
+Pilibhit,2018,12,430
+Pratapgarh,2016,1,423
+Pratapgarh,2016,2,376
+Pratapgarh,2016,3,474
+Pratapgarh,2016,4,442
+Pratapgarh,2016,5,494
+Pratapgarh,2016,6,530
+Pratapgarh,2016,7,458
+Pratapgarh,2016,8,464
+Pratapgarh,2016,9,475
+Pratapgarh,2016,10,479
+Pratapgarh,2016,11,340
+Pratapgarh,2016,12,482
+Pratapgarh,2017,1,371
+Pratapgarh,2017,2,247
+Pratapgarh,2017,3,479
+Pratapgarh,2017,4,432
+Pratapgarh,2017,5,412
+Pratapgarh,2017,6,449
+Pratapgarh,2017,7,508
+Pratapgarh,2017,8,652
+Pratapgarh,2017,9,562
+Pratapgarh,2017,10,612
+Pratapgarh,2017,11,553
+Pratapgarh,2017,12,455
+Pratapgarh,2018,1,456
+Pratapgarh,2018,2,593
+Pratapgarh,2018,3,520
+Pratapgarh,2018,4,526
+Pratapgarh,2018,5,740
+Pratapgarh,2018,6,677
+Pratapgarh,2018,7,819
+Pratapgarh,2018,8,929
+Pratapgarh,2018,9,659
+Pratapgarh,2018,10,658
+Pratapgarh,2018,11,584
+Pratapgarh,2018,12,606
+Prayagraj,2016,1,969
+Prayagraj,2016,2,964
+Prayagraj,2016,3,1007
+Prayagraj,2016,4,1042
+Prayagraj,2016,5,1355
+Prayagraj,2016,6,1250
+Prayagraj,2016,7,1202
+Prayagraj,2016,8,1254
+Prayagraj,2016,9,1256
+Prayagraj,2016,10,1164
+Prayagraj,2016,11,879
+Prayagraj,2016,12,1033
+Prayagraj,2017,1,1212
+Prayagraj,2017,2,815
+Prayagraj,2017,3,1127
+Prayagraj,2017,4,1207
+Prayagraj,2017,5,1340
+Prayagraj,2017,6,1265
+Prayagraj,2017,7,1415
+Prayagraj,2017,8,1607
+Prayagraj,2017,9,1581
+Prayagraj,2017,10,1955
+Prayagraj,2017,11,1663
+Prayagraj,2017,12,1368
+Prayagraj,2018,1,1457
+Prayagraj,2018,2,1646
+Prayagraj,2018,3,1534
+Prayagraj,2018,4,1686
+Prayagraj,2018,5,2362
+Prayagraj,2018,6,2244
+Prayagraj,2018,7,2519
+Prayagraj,2018,8,2496
+Prayagraj,2018,9,2380
+Prayagraj,2018,10,2387
+Prayagraj,2018,11,2083
+Prayagraj,2018,12,2225
+Rae Bareli,2016,1,326
+Rae Bareli,2016,2,346
+Rae Bareli,2016,3,504
+Rae Bareli,2016,4,439
+Rae Bareli,2016,5,490
+Rae Bareli,2016,6,457
+Rae Bareli,2016,7,477
+Rae Bareli,2016,8,385
+Rae Bareli,2016,9,406
+Rae Bareli,2016,10,379
+Rae Bareli,2016,11,405
+Rae Bareli,2016,12,469
+Rae Bareli,2017,1,569
+Rae Bareli,2017,2,369
+Rae Bareli,2017,3,349
+Rae Bareli,2017,4,388
+Rae Bareli,2017,5,508
+Rae Bareli,2017,6,537
+Rae Bareli,2017,7,502
+Rae Bareli,2017,8,505
+Rae Bareli,2017,9,556
+Rae Bareli,2017,10,717
+Rae Bareli,2017,11,593
+Rae Bareli,2017,12,514
+Rae Bareli,2018,1,500
+Rae Bareli,2018,2,498
+Rae Bareli,2018,3,480
+Rae Bareli,2018,4,582
+Rae Bareli,2018,5,707
+Rae Bareli,2018,6,919
+Rae Bareli,2018,7,1042
+Rae Bareli,2018,8,1052
+Rae Bareli,2018,9,888
+Rae Bareli,2018,10,823
+Rae Bareli,2018,11,706
+Rae Bareli,2018,12,851
+Rampur,2016,1,449
+Rampur,2016,2,394
+Rampur,2016,3,569
+Rampur,2016,4,434
+Rampur,2016,5,485
+Rampur,2016,6,560
+Rampur,2016,7,583
+Rampur,2016,8,622
+Rampur,2016,9,618
+Rampur,2016,10,527
+Rampur,2016,11,380
+Rampur,2016,12,378
+Rampur,2017,1,708
+Rampur,2017,2,283
+Rampur,2017,3,587
+Rampur,2017,4,642
+Rampur,2017,5,717
+Rampur,2017,6,553
+Rampur,2017,7,762
+Rampur,2017,8,725
+Rampur,2017,9,684
+Rampur,2017,10,805
+Rampur,2017,11,798
+Rampur,2017,12,671
+Rampur,2018,1,682
+Rampur,2018,2,691
+Rampur,2018,3,681
+Rampur,2018,4,570
+Rampur,2018,5,828
+Rampur,2018,6,793
+Rampur,2018,7,851
+Rampur,2018,8,687
+Rampur,2018,9,720
+Rampur,2018,10,758
+Rampur,2018,11,703
+Rampur,2018,12,799
+Saharanpur,2016,1,572
+Saharanpur,2016,2,485
+Saharanpur,2016,3,685
+Saharanpur,2016,4,465
+Saharanpur,2016,5,510
+Saharanpur,2016,6,638
+Saharanpur,2016,7,754
+Saharanpur,2016,8,713
+Saharanpur,2016,9,660
+Saharanpur,2016,10,613
+Saharanpur,2016,11,510
+Saharanpur,2016,12,605
+Saharanpur,2017,1,809
+Saharanpur,2017,2,584
+Saharanpur,2017,3,668
+Saharanpur,2017,4,588
+Saharanpur,2017,5,736
+Saharanpur,2017,6,660
+Saharanpur,2017,7,705
+Saharanpur,2017,8,824
+Saharanpur,2017,9,955
+Saharanpur,2017,10,813
+Saharanpur,2017,11,714
+Saharanpur,2017,12,1048
+Saharanpur,2018,1,726
+Saharanpur,2018,2,750
+Saharanpur,2018,3,785
+Saharanpur,2018,4,592
+Saharanpur,2018,5,885
+Saharanpur,2018,6,1031
+Saharanpur,2018,7,1126
+Saharanpur,2018,8,1080
+Saharanpur,2018,9,1041
+Saharanpur,2018,10,1424
+Saharanpur,2018,11,864
+Saharanpur,2018,12,1206
+Sambhal,2016,1,326
+Sambhal,2016,2,423
+Sambhal,2016,3,344
+Sambhal,2016,4,287
+Sambhal,2016,5,377
+Sambhal,2016,6,357
+Sambhal,2016,7,350
+Sambhal,2016,8,516
+Sambhal,2016,9,414
+Sambhal,2016,10,465
+Sambhal,2016,11,335
+Sambhal,2016,12,386
+Sambhal,2017,1,508
+Sambhal,2017,2,308
+Sambhal,2017,3,444
+Sambhal,2017,4,450
+Sambhal,2017,5,524
+Sambhal,2017,6,429
+Sambhal,2017,7,482
+Sambhal,2017,8,500
+Sambhal,2017,9,499
+Sambhal,2017,10,549
+Sambhal,2017,11,504
+Sambhal,2017,12,477
+Sambhal,2018,1,561
+Sambhal,2018,2,502
+Sambhal,2018,3,506
+Sambhal,2018,4,456
+Sambhal,2018,5,541
+Sambhal,2018,6,515
+Sambhal,2018,7,453
+Sambhal,2018,8,494
+Sambhal,2018,9,493
+Sambhal,2018,10,484
+Sambhal,2018,11,459
+Sambhal,2018,12,441
+Sant Kabeer Nagar,2016,1,155
+Sant Kabeer Nagar,2016,2,135
+Sant Kabeer Nagar,2016,3,200
+Sant Kabeer Nagar,2016,4,137
+Sant Kabeer Nagar,2016,5,183
+Sant Kabeer Nagar,2016,6,203
+Sant Kabeer Nagar,2016,7,217
+Sant Kabeer Nagar,2016,8,207
+Sant Kabeer Nagar,2016,9,130
+Sant Kabeer Nagar,2016,10,204
+Sant Kabeer Nagar,2016,11,176
+Sant Kabeer Nagar,2016,12,209
+Sant Kabeer Nagar,2017,1,223
+Sant Kabeer Nagar,2017,2,126
+Sant Kabeer Nagar,2017,3,260
+Sant Kabeer Nagar,2017,4,235
+Sant Kabeer Nagar,2017,5,265
+Sant Kabeer Nagar,2017,6,250
+Sant Kabeer Nagar,2017,7,321
+Sant Kabeer Nagar,2017,8,236
+Sant Kabeer Nagar,2017,9,299
+Sant Kabeer Nagar,2017,10,353
+Sant Kabeer Nagar,2017,11,422
+Sant Kabeer Nagar,2017,12,257
+Sant Kabeer Nagar,2018,1,219
+Sant Kabeer Nagar,2018,2,258
+Sant Kabeer Nagar,2018,3,307
+Sant Kabeer Nagar,2018,4,288
+Sant Kabeer Nagar,2018,5,352
+Sant Kabeer Nagar,2018,6,285
+Sant Kabeer Nagar,2018,7,348
+Sant Kabeer Nagar,2018,8,279
+Sant Kabeer Nagar,2018,9,285
+Sant Kabeer Nagar,2018,10,267
+Sant Kabeer Nagar,2018,11,301
+Sant Kabeer Nagar,2018,12,264
+Shahjahanpur,2016,1,424
+Shahjahanpur,2016,2,371
+Shahjahanpur,2016,3,554
+Shahjahanpur,2016,4,479
+Shahjahanpur,2016,5,629
+Shahjahanpur,2016,6,550
+Shahjahanpur,2016,7,769
+Shahjahanpur,2016,8,656
+Shahjahanpur,2016,9,555
+Shahjahanpur,2016,10,645
+Shahjahanpur,2016,11,588
+Shahjahanpur,2016,12,624
+Shahjahanpur,2017,1,908
+Shahjahanpur,2017,2,384
+Shahjahanpur,2017,3,655
+Shahjahanpur,2017,4,709
+Shahjahanpur,2017,5,962
+Shahjahanpur,2017,6,759
+Shahjahanpur,2017,7,1009
+Shahjahanpur,2017,8,833
+Shahjahanpur,2017,9,923
+Shahjahanpur,2017,10,858
+Shahjahanpur,2017,11,848
+Shahjahanpur,2017,12,1078
+Shahjahanpur,2018,1,1249
+Shahjahanpur,2018,2,883
+Shahjahanpur,2018,3,1080
+Shahjahanpur,2018,4,823
+Shahjahanpur,2018,5,1195
+Shahjahanpur,2018,6,1094
+Shahjahanpur,2018,7,1053
+Shahjahanpur,2018,8,1000
+Shahjahanpur,2018,9,986
+Shahjahanpur,2018,10,1128
+Shahjahanpur,2018,11,1053
+Shahjahanpur,2018,12,1073
+Shamli,2016,1,242
+Shamli,2016,2,241
+Shamli,2016,3,322
+Shamli,2016,4,260
+Shamli,2016,5,287
+Shamli,2016,6,358
+Shamli,2016,7,411
+Shamli,2016,8,481
+Shamli,2016,9,423
+Shamli,2016,10,336
+Shamli,2016,11,262
+Shamli,2016,12,265
+Shamli,2017,1,390
+Shamli,2017,2,227
+Shamli,2017,3,278
+Shamli,2017,4,362
+Shamli,2017,5,377
+Shamli,2017,6,368
+Shamli,2017,7,416
+Shamli,2017,8,501
+Shamli,2017,9,557
+Shamli,2017,10,379
+Shamli,2017,11,324
+Shamli,2017,12,419
+Shamli,2018,1,482
+Shamli,2018,2,301
+Shamli,2018,3,353
+Shamli,2018,4,325
+Shamli,2018,5,313
+Shamli,2018,6,472
+Shamli,2018,7,462
+Shamli,2018,8,512
+Shamli,2018,9,421
+Shamli,2018,10,460
+Shamli,2018,11,568
+Shamli,2018,12,462
+Shravasti,2016,1,89
+Shravasti,2016,2,107
+Shravasti,2016,3,127
+Shravasti,2016,4,114
+Shravasti,2016,5,201
+Shravasti,2016,6,121
+Shravasti,2016,7,140
+Shravasti,2016,8,155
+Shravasti,2016,9,108
+Shravasti,2016,10,103
+Shravasti,2016,11,109
+Shravasti,2016,12,108
+Shravasti,2017,1,148
+Shravasti,2017,2,86
+Shravasti,2017,3,110
+Shravasti,2017,4,117
+Shravasti,2017,5,207
+Shravasti,2017,6,182
+Shravasti,2017,7,191
+Shravasti,2017,8,195
+Shravasti,2017,9,164
+Shravasti,2017,10,217
+Shravasti,2017,11,278
+Shravasti,2017,12,176
+Shravasti,2018,1,223
+Shravasti,2018,2,191
+Shravasti,2018,3,182
+Shravasti,2018,4,160
+Shravasti,2018,5,169
+Shravasti,2018,6,167
+Shravasti,2018,7,157
+Shravasti,2018,8,141
+Shravasti,2018,9,128
+Shravasti,2018,10,122
+Shravasti,2018,11,125
+Shravasti,2018,12,129
+Siddharth Nagar,2016,1,111
+Siddharth Nagar,2016,2,120
+Siddharth Nagar,2016,3,133
+Siddharth Nagar,2016,4,134
+Siddharth Nagar,2016,5,191
+Siddharth Nagar,2016,6,168
+Siddharth Nagar,2016,7,202
+Siddharth Nagar,2016,8,288
+Siddharth Nagar,2016,9,188
+Siddharth Nagar,2016,10,179
+Siddharth Nagar,2016,11,140
+Siddharth Nagar,2016,12,158
+Siddharth Nagar,2017,1,244
+Siddharth Nagar,2017,2,97
+Siddharth Nagar,2017,3,161
+Siddharth Nagar,2017,4,243
+Siddharth Nagar,2017,5,243
+Siddharth Nagar,2017,6,231
+Siddharth Nagar,2017,7,277
+Siddharth Nagar,2017,8,242
+Siddharth Nagar,2017,9,261
+Siddharth Nagar,2017,10,243
+Siddharth Nagar,2017,11,276
+Siddharth Nagar,2017,12,148
+Siddharth Nagar,2018,1,209
+Siddharth Nagar,2018,2,233
+Siddharth Nagar,2018,3,260
+Siddharth Nagar,2018,4,226
+Siddharth Nagar,2018,5,382
+Siddharth Nagar,2018,6,294
+Siddharth Nagar,2018,7,333
+Siddharth Nagar,2018,8,282
+Siddharth Nagar,2018,9,239
+Siddharth Nagar,2018,10,215
+Siddharth Nagar,2018,11,244
+Siddharth Nagar,2018,12,263
+Sitapur,2016,1,460
+Sitapur,2016,2,436
+Sitapur,2016,3,593
+Sitapur,2016,4,473
+Sitapur,2016,5,623
+Sitapur,2016,6,597
+Sitapur,2016,7,694
+Sitapur,2016,8,554
+Sitapur,2016,9,557
+Sitapur,2016,10,570
+Sitapur,2016,11,534
+Sitapur,2016,12,540
+Sitapur,2017,1,851
+Sitapur,2017,2,379
+Sitapur,2017,3,591
+Sitapur,2017,4,672
+Sitapur,2017,5,876
+Sitapur,2017,6,668
+Sitapur,2017,7,821
+Sitapur,2017,8,731
+Sitapur,2017,9,842
+Sitapur,2017,10,889
+Sitapur,2017,11,752
+Sitapur,2017,12,621
+Sitapur,2018,1,680
+Sitapur,2018,2,663
+Sitapur,2018,3,725
+Sitapur,2018,4,839
+Sitapur,2018,5,980
+Sitapur,2018,6,871
+Sitapur,2018,7,895
+Sitapur,2018,8,857
+Sitapur,2018,9,749
+Sitapur,2018,10,808
+Sitapur,2018,11,665
+Sitapur,2018,12,698
+Sonbhadra,2016,1,148
+Sonbhadra,2016,2,169
+Sonbhadra,2016,3,138
+Sonbhadra,2016,4,147
+Sonbhadra,2016,5,209
+Sonbhadra,2016,6,213
+Sonbhadra,2016,7,183
+Sonbhadra,2016,8,190
+Sonbhadra,2016,9,172
+Sonbhadra,2016,10,180
+Sonbhadra,2016,11,136
+Sonbhadra,2016,12,208
+Sonbhadra,2017,1,374
+Sonbhadra,2017,2,151
+Sonbhadra,2017,3,131
+Sonbhadra,2017,4,248
+Sonbhadra,2017,5,191
+Sonbhadra,2017,6,186
+Sonbhadra,2017,7,202
+Sonbhadra,2017,8,236
+Sonbhadra,2017,9,244
+Sonbhadra,2017,10,227
+Sonbhadra,2017,11,219
+Sonbhadra,2017,12,183
+Sonbhadra,2018,1,160
+Sonbhadra,2018,2,282
+Sonbhadra,2018,3,225
+Sonbhadra,2018,4,195
+Sonbhadra,2018,5,323
+Sonbhadra,2018,6,216
+Sonbhadra,2018,7,233
+Sonbhadra,2018,8,177
+Sonbhadra,2018,9,291
+Sonbhadra,2018,10,270
+Sonbhadra,2018,11,202
+Sonbhadra,2018,12,299
+Sultanpur,2016,1,251
+Sultanpur,2016,2,242
+Sultanpur,2016,3,317
+Sultanpur,2016,4,276
+Sultanpur,2016,5,498
+Sultanpur,2016,6,397
+Sultanpur,2016,7,356
+Sultanpur,2016,8,335
+Sultanpur,2016,9,322
+Sultanpur,2016,10,328
+Sultanpur,2016,11,225
+Sultanpur,2016,12,244
+Sultanpur,2017,1,285
+Sultanpur,2017,2,226
+Sultanpur,2017,3,362
+Sultanpur,2017,4,381
+Sultanpur,2017,5,430
+Sultanpur,2017,6,453
+Sultanpur,2017,7,498
+Sultanpur,2017,8,532
+Sultanpur,2017,9,486
+Sultanpur,2017,10,532
+Sultanpur,2017,11,437
+Sultanpur,2017,12,418
+Sultanpur,2018,1,367
+Sultanpur,2018,2,400
+Sultanpur,2018,3,526
+Sultanpur,2018,4,526
+Sultanpur,2018,5,570
+Sultanpur,2018,6,666
+Sultanpur,2018,7,661
+Sultanpur,2018,8,712
+Sultanpur,2018,9,631
+Sultanpur,2018,10,654
+Sultanpur,2018,11,595
+Sultanpur,2018,12,669
+Unnao,2016,1,335
+Unnao,2016,2,394
+Unnao,2016,3,454
+Unnao,2016,4,376
+Unnao,2016,5,425
+Unnao,2016,6,434
+Unnao,2016,7,519
+Unnao,2016,8,435
+Unnao,2016,9,507
+Unnao,2016,10,548
+Unnao,2016,11,370
+Unnao,2016,12,483
+Unnao,2017,1,552
+Unnao,2017,2,326
+Unnao,2017,3,536
+Unnao,2017,4,615
+Unnao,2017,5,646
+Unnao,2017,6,588
+Unnao,2017,7,668
+Unnao,2017,8,616
+Unnao,2017,9,740
+Unnao,2017,10,770
+Unnao,2017,11,708
+Unnao,2017,12,563
+Unnao,2018,1,660
+Unnao,2018,2,709
+Unnao,2018,3,689
+Unnao,2018,4,623
+Unnao,2018,5,853
+Unnao,2018,6,722
+Unnao,2018,7,785
+Unnao,2018,8,681
+Unnao,2018,9,701
+Unnao,2018,10,663
+Unnao,2018,11,574
+Unnao,2018,12,646
+Varanasi,2016,1,616
+Varanasi,2016,2,589
+Varanasi,2016,3,699
+Varanasi,2016,4,592
+Varanasi,2016,5,748
+Varanasi,2016,6,823
+Varanasi,2016,7,812
+Varanasi,2016,8,872
+Varanasi,2016,9,831
+Varanasi,2016,10,886
+Varanasi,2016,11,849
+Varanasi,2016,12,979
+Varanasi,2017,1,1131
+Varanasi,2017,2,962
+Varanasi,2017,3,1179
+Varanasi,2017,4,1428
+Varanasi,2017,5,1397
+Varanasi,2017,6,1471
+Varanasi,2017,7,1274
+Varanasi,2017,8,1252
+Varanasi,2017,9,1069
+Varanasi,2017,10,1144
+Varanasi,2017,11,1028
+Varanasi,2017,12,895
+Varanasi,2018,1,950
+Varanasi,2018,2,890
+Varanasi,2018,3,1031
+Varanasi,2018,4,1063
+Varanasi,2018,5,1347
+Varanasi,2018,6,1222
+Varanasi,2018,7,1313
+Varanasi,2018,8,1265
+Varanasi,2018,9,1126
+Varanasi,2018,10,1344
+Varanasi,2018,11,1157
+Varanasi,2018,12,1268
